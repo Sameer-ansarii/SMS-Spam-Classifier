@@ -28,6 +28,9 @@ We offer a comprehensive study of this corpus in the following paper. This work 
 
 Almeida, T.A., GÃ³mez Hidalgo, J.M., Yamakami, A. Contributions to the Study of SMS Spam Filtering: New Collection and Results. Proceedings of the 2011 ACM Symposium on Document Engineering (DOCENG'11), Mountain View, CA, USA, 2011.
 
+![dataset-cover](https://github.com/Sameer-ansarii/SMS-Spam-Classifier/assets/125865393/f28bd7a8-6be4-4a90-859d-a90ace7f7923)
+
+
 --------------------------
 
 # SMS Spam Classifier Project Report
