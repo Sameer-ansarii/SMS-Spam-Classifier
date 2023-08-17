@@ -1,4 +1,6 @@
 # SMS-Spam-Classifier
+This project involves building an SMS spam classifier using NLP and Machine Learning techniques. The classifier accurately distinguishes between spam and non-spam messages, achieving high precision and accuracy.
+
 
 # About Dataset
 ## Context
